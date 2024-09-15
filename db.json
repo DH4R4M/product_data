@@ -61,7 +61,7 @@
       },
       {
           "id": 11,
-          "title": "TEST",
+          "title": "Red Classic Cap",
           "price": 3123,
           "description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
           "images": [
@@ -284,14 +284,14 @@
           "price": 28,
           "description": "sueter comodo",
           "images": [
-              "https://tse4.mm.bing.net/th?id=OIP.3IjbJ-2gR_pQe7cRyk_JLwHaHu&pid=Api&P=0&h=180"
+              "https://tse4.mm.bing.net/th?id=OIP.3IjbJ-2gR_pQe7cRyk_JLwHaHu&pid=Api&P=0&h=400"
           ],
           "creationAt": "2024-09-15T01:19:01.000Z",
           "updatedAt": "2024-09-15T16:20:21.000Z",
           "category": {
               "id": 2,
               "name": "Electronics",
-              "image": "https://tse4.mm.bing.net/th?id=OIP.3IjbJ-2gR_pQe7cRyk_JLwHaHu&pid=Api&P=0&h=180",
+              "image": "https://tse4.mm.bing.net/th?id=OIP.3IjbJ-2gR_pQe7cRyk_JLwHaHu&pid=Api&P=0&h=400",
               "creationAt": "2024-09-15T01:19:00.000Z",
               "updatedAt": "2024-09-15T02:11:54.000Z"
           }
